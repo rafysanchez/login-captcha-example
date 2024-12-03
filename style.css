@@ -1,0 +1,9 @@
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: #f8f9fa;
+}
+
+#captchaCanvas {
+  height: 40px;
+  background-color: #f8f9fa;
+}
